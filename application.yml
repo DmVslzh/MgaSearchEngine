@@ -1,0 +1,16 @@
+db: jdbc:mysql://localhost:3306/mgasearch
+user: root
+password: 9+4Ravno13
+userAgent: MgaSearchBot 1.0
+webInterfaceUrl: /admin
+sites:
+     - url: https://accounting-1c.ru/spb
+       name: Бухгалтерия
+     - url: https://softsps.ru/
+       name: СПР
+
+
+
+
+
+

@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="morphology-1.5">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../RussianMorphology/solr-morphology-analysis/target/morphology-1.5.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
